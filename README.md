@@ -2,7 +2,7 @@
 
 A simple Python package that prints a greeting message to your terminal.
 
-## Installation
+## Installations
 
 You can install this package using pip:
 
